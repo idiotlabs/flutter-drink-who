@@ -137,7 +137,6 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
             'images/roulette_1.png',
             fit: BoxFit.cover,
           ),
-          style: TextButton.styleFrom(),
         ),
         builder: (BuildContext context, Widget? _widget) {
           // math.pi = 180 degree
