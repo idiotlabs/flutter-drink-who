@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "552784927731",
+    "firebase_url": "https://drink-who.firebaseio.com",
+    "project_id": "drink-who",
+    "storage_bucket": "drink-who.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552784927731:android:f1c1657694fffedc075086",
+        "android_client_info": {
+          "package_name": "idiotlabs.drinkwho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552784927731-vam9l9cmgv1b0lkkgkjsshrgf016cr84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ShQbDuEeKUCqa9whz67w3jUoVNAANnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552784927731-vam9l9cmgv1b0lkkgkjsshrgf016cr84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "552784927731-odknjusfapnjojdssv1qsm957fr76sbp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "idiotlabs.drinkwho"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
